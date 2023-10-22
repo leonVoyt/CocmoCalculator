@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CocmoCalculator/static/css/main.ae7a27c4.css",
+    "main.js": "/CocmoCalculator/static/js/main.20d6b9d1.js",
+    "index.html": "/CocmoCalculator/index.html",
+    "main.ae7a27c4.css.map": "/CocmoCalculator/static/css/main.ae7a27c4.css.map",
+    "main.20d6b9d1.js.map": "/CocmoCalculator/static/js/main.20d6b9d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7a27c4.css",
+    "static/js/main.20d6b9d1.js"
+  ]
+}

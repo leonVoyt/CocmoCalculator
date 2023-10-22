@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ae7a27c4.css","mappings":"AAAA,KACE,iBACF,CAEA,MACE,aACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n.padd {\n  margin: 1rem 0;\n}\n"],"names":[],"sourceRoot":""}
